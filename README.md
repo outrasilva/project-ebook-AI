@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src="../banner.png">
+    <img width="100" src="./assets/img/banner.png">
 </p>
 
 
@@ -11,13 +11,13 @@
 
 
 <p align="center">
-    <img src="../Capa.png"    width="400" />
+    <img src="./assets/img/Capa.png"  width="400" />
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluna na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -27,8 +27,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Bing - Gerador de Imagens](https://www.bing.com/images/create?cc=br)
+- [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
 
@@ -50,7 +50,7 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Bing
 
 ## 📚 Materiais
 
@@ -68,18 +68,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/145709183?v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
+        <a href="https://github.com/outrasilva">GitHub</a>&nbsp;|&nbsp;
+        <a href="https://www.linkedin.com/in/jessicamariasilva1995">LinkedIn</a>&nbsp;|&nbsp;
 </p>
 <br/><br/>
 <p>
