@@ -102,4 +102,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/outrasilva)
+⌨️ com 💜 por [Jessica Silva](https://github.com/outrasilva)
