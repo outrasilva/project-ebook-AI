@@ -38,15 +38,15 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema Figma, o ebook é do nicho de programação Front-end e o subnicho é UI/UX, o título deve ser épico e curto, e tenha uma temática RPG no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em Figma, para designe frontend iniciante {REGRAS} Explique sempre de uma maneira simples, Deixe o texto enxuto, Utilize a temática RPG , Sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em Figma, para designer frontend iniciante {REGRAS} Explique sempre de uma maneira simples, Deixe o texto enxuto, Utilize a temática RPG, Sempre deixe um título sugestivo por tópico |
 
 Faça um texto para Ebook, com foco em Figma, para designer frontend iniciante
 
-Midjourney：
+Bing - Gerador de Imagens：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Desenhe uma jornada épica através de um mundo digital, com uma personagem guerreira explorando um vasto território de ícones, botões e elementos de design, com o logo do Figma brilhando no horizonte, usando o estilo de arte em pixel. |
 
 ## ✨ Features
 
