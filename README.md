@@ -11,7 +11,7 @@
 
 
 <p align="center">
-    <img src="./assets/img/Capa.png"  width="400" />
+    <img src="./assets/img/Capa.png"  width="300" />
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
