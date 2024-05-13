@@ -70,7 +70,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/145709183?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJessica Silva<br>
     &nbsp&nbsp&nbsp
         <a href="https://github.com/outrasilva">GitHub</a>&nbsp;|&nbsp;
         <a href="https://www.linkedin.com/in/jessicamariasilva1995">LinkedIn</a>&nbsp;|&nbsp;
@@ -80,4 +80,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Jessica Silva](https://github.com/outrasilva)
